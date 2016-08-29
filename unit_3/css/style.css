@@ -2,21 +2,21 @@ body {
 
 	background-color:black;
 	text-align: center;
-	background-image: url("images/hero-image.jpg");
+	background-image:url("images/hero-image.jpg");
 	color:white;
 
 
 }
 
-h1, p, li {
+h1, p, ul {
 
 	color:white;
-	font-family: Helvetica;
+	font-family: "Helvetica";
 
 }
 
 #slogan {
 
 	font-style: italic;
-	font-family: Georgia;
+	font-family: "Georgia";
 	}
