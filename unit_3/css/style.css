@@ -34,6 +34,7 @@ a {
 #quote {
 	font-style: italic;
 	font-family: "Georgia";
+	margin:100px;
 }
 
 hr {
