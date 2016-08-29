@@ -18,8 +18,9 @@ h1, p, ul {
 }
 
 a {
-	color: hotpink;
+	color: #ffeb4c;
 	font-family: "Helvetica";
+	text-decoration: none;
 }
 
 #slogan {
