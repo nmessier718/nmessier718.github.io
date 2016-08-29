@@ -2,20 +2,16 @@ body {
 
 	text-align: center;
 	color:white;
+	background-image: url("images/hero-image.jpg");
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	margin:auto;
 	
 }
 
-#container {
-	width: 100%;
-	margin:auto;
-	background-image: url("images/hero-image.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-color:black;
-	opacity:0.5;
 
-}
 
 h1, p, ul {
 
