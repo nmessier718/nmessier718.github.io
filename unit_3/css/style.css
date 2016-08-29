@@ -4,14 +4,12 @@ body {
 	text-align: center;
 	color:white;
 	margin: 50px;
-	background-image: url("images/hero-image.jpg");
+	background-image: url("images/hero-image.jpg") opacity: 0.6;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100%;
 	height: auto;
-	opacity: 0.6;
-
 
 }
 
