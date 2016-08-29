@@ -31,3 +31,8 @@ a {
 	font-style: italic;
 	font-family: "Georgia";
 }
+
+hr {
+	width: 200px;
+	color: white;
+}
