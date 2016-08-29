@@ -1,14 +1,16 @@
 body {
 
 	background-color:black;
+	text-align: center;
+	background-image: url("images/hero-image.jpg");
+
 
 }
 
-h1, p {
+h1, p, li {
 
 	color:white;
-	font-style: Helvetica;
-	text-align: center;
+	font-family: Helvetica;
 
 }
 
