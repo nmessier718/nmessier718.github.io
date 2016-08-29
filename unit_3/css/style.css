@@ -1,0 +1,15 @@
+body {
+
+	background-color:black;
+
+}
+
+h1, p {
+
+	color:white;
+	font-style: Helvetica;
+	text-align: center;
+
+}
+
+#slogan {font-style: italic;}
