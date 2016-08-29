@@ -4,6 +4,7 @@ body {
 	text-align: center;
 	background-image:url("images/hero-image.jpg");
 	color:white;
+	margin: 20px;
 
 
 }
@@ -12,11 +13,15 @@ h1, p, ul {
 
 	color:white;
 	font-family: "Helvetica";
+	list-style-type: none;
 
 }
 
 #slogan {
+	font-family: "Helvetica";
+	}
 
+#quote {
 	font-style: italic;
 	font-family: "Georgia";
-	}
+}
