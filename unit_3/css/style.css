@@ -2,7 +2,7 @@ body {
 
 	background-color:black;
 	text-align: center;
-	background-image: url('images/hero-image.jpg');
+	background-image: url("images/hero-image.jpg");
 	color:white;
 	margin: 50px;
 
