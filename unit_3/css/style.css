@@ -11,7 +11,10 @@ body {
 	
 }
 
+#logo {
 
+	width: 150px;
+}
 
 h1, p, ul {
 
