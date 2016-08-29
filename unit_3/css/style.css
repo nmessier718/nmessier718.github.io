@@ -1,6 +1,6 @@
 body {
 
-	background:linear-gradient(rgba(0,87,110,0),rgba(0,87,110,0.9), url("images/hero-image.jpg");
+	background:linear-gradient(rgba(0,87,110,0),rgba(0,87,110,0.9), url('images/hero-image.jpg');
 	text-align: center;
 	color:white;
 	margin: 100px;
