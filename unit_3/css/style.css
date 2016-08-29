@@ -3,6 +3,7 @@ body {
 	background-color:black;
 	text-align: center;
 	background-image: url("images/hero-image.jpg");
+	color:white;
 
 
 }
@@ -14,4 +15,8 @@ h1, p, li {
 
 }
 
-#slogan {font-style: italic;}
+#slogan {
+
+	font-style: italic;
+	font-family: Georgia;
+	}
