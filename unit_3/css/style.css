@@ -4,7 +4,7 @@ body {
 	text-align: center;
 	background-image:url("images/hero-image.jpg");
 	color:white;
-	margin: 20px;
+	margin: 50px;
 
 
 }
@@ -15,6 +15,11 @@ h1, p, ul {
 	font-family: "Helvetica";
 	list-style-type: none;
 
+}
+
+a {
+	color: hotpink;
+	font-family: "Helvetica";
 }
 
 #slogan {
