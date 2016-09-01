@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
 body {
 
 	text-align: center;
@@ -20,19 +22,19 @@ body {
 h1, p, ul {
 
 	color:white;
-	font-family: "Helvetica";
+	font-family: 'Raleway', sans-serif;
 	list-style-type: none;
 
 }
 
 a {
 	color: #ffeb4c;
-	font-family: "Helvetica";
+	font-family: 'Raleway', sans-serif;
 	text-decoration: none;
 }
 
 #slogan {
-	font-family: "Helvetica";
+	font-family: 'Raleway', sans-serif;
 	}
 
 #quote {
