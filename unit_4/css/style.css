@@ -35,6 +35,8 @@ a {
 
 #slogan {
 	font-family: 'Raleway', sans-serif;
+	margin: 300px;
+	line-height: 2em;
 	}
 
 #quote {
