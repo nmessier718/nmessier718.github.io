@@ -35,15 +35,14 @@ a {
 
 #slogan {
 	font-family: 'Raleway', sans-serif;
-	margin: 300px;
-	line-height: 2em;
 	}
 
 #quote {
 	font-style: italic;
 	font-family: "Georgia";
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	line-height: 1.5em;
 }
 
 hr {
