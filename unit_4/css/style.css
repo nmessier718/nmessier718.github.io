@@ -1,0 +1,50 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+body {
+
+	text-align: center;
+	color:white;
+	background-image: url("images/hero-image.jpg");
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	margin:auto;
+	
+}
+
+#logo {
+
+	width: 100px;
+	margin-top: 30px;
+}
+
+h1, p, ul {
+
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	list-style-type: none;
+
+}
+
+a {
+	color: #ffeb4c;
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+}
+
+#slogan {
+	font-family: 'Raleway', sans-serif;
+	}
+
+#quote {
+	font-style: italic;
+	font-family: "Georgia";
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+hr {
+	width: 200px;
+	color: white;
+}
