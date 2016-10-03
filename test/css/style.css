@@ -1,0 +1,110 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	color: #626366;
+	line-height: 1.5em;	
+}
+
+#wrapper {
+	margin: auto;
+	margin-left: 10em;
+	margin-right: 10em;
+	margin-top: 3em;
+}
+
+#header {
+
+	padding-bottom: 1em;
+
+}
+
+#logo {
+
+}
+
+#banner {
+	width: 100%;
+	margin: auto;
+
+}
+
+nav {
+	display: inline-block;
+	float: right;
+	clear: both;
+	padding-top: .5em;
+}
+
+nav a {
+	text-decoration: none;
+	color: orange;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	border-bottom: .1em solid orange;
+
+}
+
+#about {
+	display: block;
+	width: 55%;
+	float: left;
+	border-right: .1em solid #aadbd2;
+	padding-right: 4em;
+}
+
+#one {
+	display: block;
+	width: 20%;
+	float: left;
+	margin-right: 6em;
+	padding-top: 1em;
+	text-align: center;
+}
+
+#two {
+	display: block;
+	width: 20%;
+	float: left;
+	margin-right: 6em;
+	padding-top: 1em;
+	text-align: center;
+}
+
+#three {
+	display: block;
+	width: 20%;
+	float: left;
+	padding-top: 1em;
+	text-align: center;
+}
+
+aside {
+	float: right;
+	display: block;
+	width:35%;
+	margin-left: 4em;
+}
+
+footer {
+	clear:both;
+	background-color: #e1dcda;
+	padding: .5em;
+	text-align: center;
+	margin-top: 2em;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
